@@ -25,10 +25,12 @@ The Checkout Time per Gender chart shows the relationship between the minutes a 
 
 ### Visualization 4: Gender Breakdown Table
 ![image_name](https://github.com/Mugunthan24/bikesharing/blob/main/images/gender_breakdown.png)
+
 The Gender Breakdown Table provides a breakdown of the number of rides provided by Citibike per gender type.
 
 ### Visualization 5: Gender Breakdown Pie Chart
 ![image_name](https://github.com/Mugunthan24/bikesharing/blob/main/images/gender_breakdown_pie_chart.png)
+
 The Gender Breakdown Pie Chart provides a chart of the Gender Breakdown table to make the differences in the number of rides per gender more apparent.
 
 ### Visualization 6: Trips by Weekday per Hour
